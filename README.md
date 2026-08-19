@@ -105,4 +105,4 @@ A **star schema** was built in Power BI with one central fact table surrounded b
 
 **Divine Abbah** — Data Analyst  
 📧 divineabbah7@gmail.com  
-🌐 [Portfolio](https://divineabbah77.netlify.app) · [LinkedIn](https://linkedin.com/in/divineabbah)
+🌐 [LinkedIn](https://linkedin.com/in/divineabbah)
