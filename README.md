@@ -85,7 +85,7 @@ A **star schema** was built in Power BI with one central fact table surrounded b
 
 ## 🔗 Live Dashboard
 
-**[👉 View the interactive report on Power BI Service](https://app.powerbi.com/links/PUzks-hEBX?ctid=8f37f637-b60a-4f49-8def-81856a24889e&pbi_source=linkShare)**
+**[👉 View the interactive report on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMmNiMzE5NTUtMDRkNS00MGE4LWJlNTctMTRjZjc3YTU2Mjk3IiwidCI6IjhmMzdmNjM3LWI2MGEtNGY0OS04ZGVmLTgxODU2YTI0ODg5ZSJ9)**
 
 > Fully interactive — use the Product / Customer toggle and year / category slicers without downloading anything.
 
